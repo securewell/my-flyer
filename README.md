@@ -6,7 +6,7 @@
 
     <div class="ad-container">
         <!-- The entire flyer as a single image -->
-        <img src="uploaded:ethos-flyer.png" alt="Securewell LLC Life Insurance Flyer">
+        <img src="ethos-flyer.png" alt="Securewell LLC Life Insurance Flyer">
 
         <!-- Invisible clickable overlay for the URL -->
         <a href="https://agents.ethoslife.com/invite/b4a05" 
