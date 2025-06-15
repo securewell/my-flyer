@@ -6,7 +6,7 @@
 
     <div class="ad-container">
         <!-- The entire flyer as a single image -->
-        <img src="uploaded:image_bb8681.png-b3f054bf-0b0c-428c-8de2-25d981573407" 
+        <img src="uploaded:ethos-flyer.png" 
              onerror="this.onerror=null;this.src='https://placehold.co/480x720/E0F2F7/333333?text=Flyer+Image+Not+Found';" 
              alt="Securewell LLC Life Insurance Flyer" 
              class="full-flyer-image">
